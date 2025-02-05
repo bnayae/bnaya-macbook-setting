@@ -2,4 +2,4 @@
 
 ## Finder
 
-- Show Hidden Files: Command + Shift + . 
+- Show Hidden Files: `Command + Shift + .` 
