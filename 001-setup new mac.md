@@ -61,6 +61,8 @@ npm init -y
 npm install @huggingface/transformers
 ```
 
+## Node
+
 - Install Node.js
 
 ```bash
