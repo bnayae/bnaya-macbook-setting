@@ -1,3 +1,12 @@
+---
+runme:
+  document:
+    relativePath: 001-setup new mac.md
+  session:
+    id: 01K2D8NAYKYC3BJ5JJVADNX9AM
+    updated: 2025-08-11 22:14:58+03:00
+---
+
 # Setup
 
 ## Brew
@@ -64,10 +73,10 @@ brew install ollama
 docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
 ```
 
-- ChatGPT4All
+- Ch*******ll
 
 ```bash
-brew search chatgpt4all
+brew search ch*******ll
 ```
 
 - LM Studio (LLM desktop)
